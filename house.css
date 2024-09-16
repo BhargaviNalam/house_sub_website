@@ -32,8 +32,16 @@ color: azure;
     box-sizing: border-box;
     margin-right: 15px; 
 }
-.f{
+.e{
+    padding-right: 50px;
     font-size: 16px;
     margin: 10px 0px 0px 0px;
 }
-
+#f{
+    float: left;
+}
+.f{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+}
